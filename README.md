@@ -17,15 +17,15 @@ Each record in the database provides a description of an anime. A detailed data 
 - title: title of the anime
 - mediaType: format of publication
 - eps: number of episodes (movies are considered 1 episode)
-duration: duration of an episode in minutes
-startYr: the year that airing started
-finishYr: the year that airing finished
-description: the synopsis of the plot
-contentWarn: content warning
-watched: number of users that completed it
-watching: number of users that are watching it
-rating: average user rating
-votes: number of votes that contribute to the rating
-studio_primary: studios responsible for creation
-studios_colab: whether there was a collaboration between studios for anime production
-genre: genre to which the anime belongs
+- duration: duration of an episode in minutes
+- startYr: the year that airing started
+- finishYr: the year that airing finished
+- description: the synopsis of the plot
+- contentWarn: content warning
+- watched: number of users that completed it
+- watching: number of users that are watching it
+- rating: average user rating
+- votes: number of votes that contribute to the rating
+- studio_primary: studios responsible for creation
+- studios_colab: whether there was a collaboration between studios for anime production
+- genre: genre to which the anime belongs
