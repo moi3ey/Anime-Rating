@@ -14,9 +14,9 @@ Streamist is currently focusing on the anime available in their portal and wants
 # Data Dictionary
 Each record in the database provides a description of an anime. A detailed data dictionary can be found below.
 
-title: title of the anime
-mediaType: format of publication
-eps: number of episodes (movies are considered 1 episode)
+- title: title of the anime
+- mediaType: format of publication
+- eps: number of episodes (movies are considered 1 episode)
 duration: duration of an episode in minutes
 startYr: the year that airing started
 finishYr: the year that airing finished
